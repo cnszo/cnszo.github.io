@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>markdown on 568b</title>
+    <link>https://www.568b.com/tags/markdown/</link>
+    <description>Recent content in markdown on 568b</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Feb 2017 01:17:15 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.568b.com/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markdown基本语法</title>
+      <link>https://www.568b.com/markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</link>
+      <pubDate>Sun, 19 Feb 2017 01:17:15 +0800</pubDate>
+      
+      <guid>https://www.568b.com/markdown%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95/</guid>
+      <description>Markdown是一种纯文本格式的标记语言。通过简单的标记语法，它可以使普通文本内容具有一定的格式。
+相比WYSIWYG编辑器 优点： 1、因为是纯文本，所以只要支持Markdown的地方都能获得一样的编辑效果，可以让作者摆脱排版的困扰，专心写作。 2、操作简单。比如:WYSIWYG编辑时标记个标题，先选中内容，再点击导航栏的标题按钮，选择几级标题。要三个步骤。而Markdown只需要在标题内容前加#即可
+缺点： 1、需要记一些语法（当然，是很简单。五分钟学会）。 2、有些平台不支持Markdown编辑模式。
+一、标题 在想要设置为标题的文字前面加#来表示 一个#是一级标题，二个#是二级标题，以此类推。支持六级标题。
+注：标准语法一般在#后跟个空格再写文字，貌似简书不加空格也行。
+示例：
+# 这是一级标题 ## 这是二级标题 ### 这是三级标题 #### 这是四级标题  效果如下：
+这是一级标题 这是二级标题 这是三级标题 这是四级标题 二、字体 加粗: 要加粗的文字左右分别用两个*号包起来
+**这是加粗的文字**  这是加粗的文字
+斜体: 要倾斜的文字左右分别用一个*号包起来
+*这是倾斜的文字*  这是倾斜的文字
+斜体加粗: 要倾斜和加粗的文字左右分别用三个*号包起来
+***这是斜体加粗的文字***  这是斜体加粗的文字
+删除线: 要加删除线的文字左右分别用两个~~号包起来
+~~这是加删除线的文字~~  这是加删除线的文字
+三、引用 在引用的文字前加&amp;gt;即可。引用也可以嵌套，如加两个&amp;gt;&amp;gt;三个&amp;gt;&amp;gt;&amp;gt; n个&amp;hellip; 貌似可以一直加下去，但没神马卵用
+示例：
+&amp;gt;这是引用的内容 &amp;gt;&amp;gt;这是引用的内容 &amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;&amp;gt;这是引用的内容  效果如下：
+ 这是引用的内容
+ 这是引用的内容
+        这是引用的内容</description>
+    </item>
+    
+    <item>
+      <title>欢迎使用 Markdown在线编辑器</title>
+      <link>https://www.568b.com/markdown/</link>
+      <pubDate>Sun, 19 Feb 2017 01:17:15 +0800</pubDate>
+      
+      <guid>https://www.568b.com/markdown/</guid>
+      <description>Markdown是一种轻量级的「标记语言」
+Markdown是一种可以使用普通文本编辑器编写的标记语言，通过简单的标记语法，它可以使普通文本内容具有一定的格式。它允许人们使用易读易写的纯文本格式编写文档，然后转换成格式丰富的HTML页面，Markdown文件的后缀名便是“.md”
+MdEditor是一个在线编辑Markdown文档的编辑器 MdEditor扩展了Markdown的功能（如表格、脚注、内嵌HTML等等），以使让Markdown转换成更多的格式，和更丰富的展示效果，这些功能原初的Markdown尚不具备。
+ Markdown增强版中比较有名的有Markdown Extra、MultiMarkdown、 Maruku等。这些衍生版本要么基于工具，如Pandoc，Pandao；要么基于网站，如GitHub和Wikipedia，在语法上基本兼容，但在一些语法和渲染效果上有改动。
+ MdEditor源于Pandao的JavaScript开源项目，开源地址Editor.md，并在MIT开源协议的许可范围内进行了优化，以适应广大用户群体的需求。向优秀的markdown开源编辑器原作者Pandao致敬。
+MdEditor的功能列表演示 标题H1 标题H2 标题H3 标题H4 标题H5 标题H5 字符效果和横线等 删除线 删除线（开启识别HTML标签时）
+斜体字 斜体字
+粗体 粗体
+粗斜体 粗斜体
+上标：X2，下标：O2
+缩写(同HTML的abbr标签) &amp;gt; 即更长的单词或短语的缩写形式，前提是开启识别HTML标签时，已默认开启
+The HTML specification is maintained by the W3C.
+引用 Blockquotes  引用文本 Blockquotes
+ 引用的行内混合 Blockquotes
+ 引用：如果想要插入空白换行即&amp;lt;br /&amp;gt;标签，在插入处先键入两个以上的空格然后回车即可，普通链接。
+ 锚点与链接 Links 普通链接 普通链接带标题 直接链接：https://www.mdeditor.com 锚点链接
+mailto:test.test@gmail.com GFM a-tail link @pandao 邮箱地址自动链接 test.test@gmail.com www@vip.qq.com &amp;gt; @pandao
+多语言代码高亮 Codes 行内代码 Inline code 执行命令：npm install marked</description>
+    </item>
+    
+  </channel>
+</rss>

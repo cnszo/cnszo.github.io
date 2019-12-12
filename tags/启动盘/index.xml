@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>启动盘 on 568b</title>
+    <link>https://www.568b.com/tags/%E5%90%AF%E5%8A%A8%E7%9B%98/</link>
+    <description>Recent content in 启动盘 on 568b</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 May 2013 01:17:15 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.568b.com/tags/%E5%90%AF%E5%8A%A8%E7%9B%98/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>universal-usb-installer</title>
+      <link>https://www.568b.com/universal-usb-installer/</link>
+      <pubDate>Sun, 19 May 2013 01:17:15 +0800</pubDate>
+      
+      <guid>https://www.568b.com/universal-usb-installer/</guid>
+      <description>universal-usb-installer(通用USB安装程序)是一款自启动的U盘Linux安装器，界面简洁、操作方便，只需要选择自启动Linux发行版，ISO文件，和U盘，单击“安装”即可。universal-usb-installer还有别的功能：持续保存、能以FAT32格式格式化U盘。拥有了这款软件就等于拥有了一个安装了您所喜欢的Linux版本的自启动U盘啊!
+universal-usb-installer软件安装说明： 1，运行刚刚下载的通用USB安装程序，点击“我同意”进入制作界面。 2，选择你需要安装的Ubuntu版本，支持目前新的Ubuntu。 3，选择你下载的Ubuntu的镜像，选择ü盘的盘符(想保留û盘数据的不要勾选旁边的方框，但推荐先格式化ü盘再制作)。最后指定所使用的空间，选择额定空间时会对安装文件进行一定程度的压缩。 4，点击“创建”开始制作。会跳出即将执行操作的提示框，操作无误的点击确定开始制作ü盘版的Ubuntu的安装盘。
+universal-usb-installer软件的使用： 1.安装Universal USB Installer软件，打开后，点击“Browse”按钮浏览下载到本地磁盘的Ubuntu系统ISO镜像，点击“H:\”选择U盘的盘符，然后点击“Create”按钮。
+下载： https://universal-usb-installer.en.softonic.com/</description>
+    </item>
+    
+  </channel>
+</rss>

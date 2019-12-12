@@ -1,0 +1,202 @@
+@charset "utf-8";
+.main{
+	margin-top: 2rem;
+}
+/*tags*/
+.tags{
+	display: block;
+	padding: 20px 0;
+	width: auto;
+}
+.tags ul{
+	margin: 0 auto;	
+	padding: 0;
+	display: flex;
+	justify-content: row;
+	flex-wrap: wrap
+}
+.tags li{
+	list-style: none;
+	margin-right: 20px;
+}
+.tags a{
+	font-size: 16px;
+}
+/*list*/
+.list{
+	margin: 0;
+	padding: 0;
+}
+.list li{
+	padding: 16px 0;
+	list-style: none;
+}
+
+
+.date{
+	color: #aaa;
+	margin-bottom: 2rem;
+}
+.summary{
+	margin: 0;
+	padding: 0;
+}
+
+/*paginator*/
+.pagination{
+    text-align: center;
+	padding: 40px 0;
+	margin-top: 40px;
+}
+.pagination ul{
+	margin: 0;
+	padding: 0;
+}
+.pagination li{
+	display: inline-block;
+	padding: 8px 16px;
+}
+
+.item{
+	border: 1px solid #D6D6D6;
+}
+.actives{
+	font-weight: bold;
+	text-decoration: none;	
+}
+
+/*footer*/
+.footer{
+	color: #aaa;
+	padding: 100px 0 40px 0;
+}
+
+pre,
+code {
+  font-family: Menlo, Monaco, "Courier New", monospace;
+  background-color: #fafafa;
+}
+
+pre {
+  padding: 1rem;
+  line-height: 1.25;
+  text-align: left;
+}
+
+/* Tables */
+table {
+  margin-bottom: 1rem;
+  width: 100%;
+  border: 1px solid #e5e5e5;
+  border-collapse: collapse;
+}
+td,
+th {
+  padding: .25rem .5rem;
+  border: 1px solid #e5e5e5;
+}
+tbody tr:nth-child(odd) td,
+tbody tr:nth-child(odd) th {
+  background-color: #f9f9f9;
+}
+
+a,a:visited{
+	color: #3498db;
+	text-decoration: none;
+}
+a:hover,
+a:focus,
+a:active {
+  color: #2980b9;
+  text-decoration: underline;
+}
+
+html {
+  font-size: 12px;
+}
+
+@media screen and (min-width: 32rem) and (max-width: 48rem) {
+  html {
+    font-size: 15px;
+  }
+}
+
+@media screen and (min-width: 48rem) {
+  html {
+    font-size: 16px;
+  }
+}
+
+body {
+  line-height: 1.85;
+}
+
+p {
+  font-size: 1rem;
+  margin-bottom: 1.3rem;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  margin: 1.414rem 0 .5rem;
+  font-weight: inherit;
+  line-height: 1.42;
+}
+
+
+small {
+  font-size: .707em;
+}
+
+/* https://github.com/mrmrs/fluidity */
+
+img,
+canvas,
+iframe,
+video,
+svg,
+select,
+textarea {
+  max-width: 100%;
+}
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700);
+
+@import url(http://fonts.googleapis.com/css?family=Arimo:700,700italic);
+
+html {
+  font-size: 18px;
+  max-width: 100%;
+}
+
+body {
+  color: #444;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: 300;
+  margin: 0 auto;
+  max-width: 48rem;
+  line-height: 1.45;
+  padding: .25rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: Arimo, Helvetica, sans-serif;
+}
+
+blockquote {
+	color: #666;
+	margin: 0;
+	border-left: 4px solid #ddd;
+	font-style: italic;
+	padding-left: 20px;
+	text-align: left;
+}
+
+sup{
+	color: #aaa;
+	font-size: 12px;
+}
